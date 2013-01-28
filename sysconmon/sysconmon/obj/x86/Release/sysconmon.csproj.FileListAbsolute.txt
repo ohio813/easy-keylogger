@@ -1,0 +1,6 @@
+C:\Users\simo\Documents\Visual Studio 2010\Projects\sysconmon\sysconmon\bin\Release\sysconmon.exe.config
+C:\Users\simo\Documents\Visual Studio 2010\Projects\sysconmon\sysconmon\bin\Release\sysconmon.exe
+C:\Users\simo\Documents\Visual Studio 2010\Projects\sysconmon\sysconmon\bin\Release\sysconmon.pdb
+C:\Users\simo\Documents\Visual Studio 2010\Projects\sysconmon\sysconmon\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\simo\Documents\Visual Studio 2010\Projects\sysconmon\sysconmon\obj\x86\Release\sysconmon.exe
+C:\Users\simo\Documents\Visual Studio 2010\Projects\sysconmon\sysconmon\obj\x86\Release\sysconmon.pdb
