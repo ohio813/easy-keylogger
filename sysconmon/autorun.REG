@@ -1,0 +1,2 @@
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\Curr entVersion\Run]
+"sysconmon"="C:\Windows\sysconmon\sysconmon.exe"
