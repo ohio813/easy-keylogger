@@ -1,2 +1,4 @@
-[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
-"sysconmon"="C:\Windows\sysconmon\sysconmon.exe"
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"sysconmon"="C:\\Windows\\sysconmon\\sysconmon.exe"
